@@ -8,3 +8,7 @@
 .country-visited {
   background-color: aquamarine;
 }
+
+button {
+  margin-top: 10px;
+}
